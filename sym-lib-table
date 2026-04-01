@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NHD-0216K1Z-NSW-BBW-L")(type "KiCad")(uri "${KIPRJMOD}/NHD-0216K1Z-NSW-BBW-L.kicad_sym")(options "")(descr ""))
+  (lib (name "LM2586T-ADJ")(type "KiCad")(uri "${KIPRJMOD}/LM2586T-ADJ.kicad_sym")(options "")(descr ""))
+  (lib (name "Transformer_Wurth_WE-IBTI")(type "KiCad")(uri "${KIPRJMOD}/Transformer_Wurth_WE-IBTI.kicad_sym")(options "")(descr ""))
+  (lib (name "term")(type "KiCad")(uri "${KIPRJMOD}/term.kicad_sym")(options "")(descr ""))
+)
